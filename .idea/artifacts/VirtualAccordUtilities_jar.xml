@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VirtualAccordUtilities:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VirtualAccordUtilities_jar</output-path>
+    <root id="archive" name="VirtualAccordUtilities.jar">
+      <element id="module-output" name="VirtualAccordUtilities" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Folders/Dev Stuff/Minecraft/craftbukkit-1.12.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

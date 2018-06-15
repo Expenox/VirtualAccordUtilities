@@ -1,0 +1,10 @@
+name: VirtualAccordUtilities
+version: 1.0
+author: Expenox
+main: com.expenox.vau.Main
+description: A variety of useful commands for the Virtual Accord server.
+
+commands:
+  discord:
+   aliases: [Discord]
+   description: This links to the Virtual Accord discord.
